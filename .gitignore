@@ -1,0 +1,32 @@
+# Rust build output
+/target/
+Cargo.lock
+
+# Downloaded PDFium archives
+*.tgz
+*.tgz.*
+
+# Compiled binaries
+pdfium.dll
+
+# Log files
+*.log
+
+# Extracted data output (user-generated)
+*.csv
+
+# Environment / secrets
+.env
+
+# Backend dependencies
+backend/node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+

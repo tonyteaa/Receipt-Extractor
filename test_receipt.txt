@@ -1,0 +1,34 @@
+ACME GROCERY STORE
+123 Main Street
+Anytown, USA 12345
+Tel: (555) 123-4567
+
+Date: December 9, 2024
+Time: 14:32:15
+Receipt #: 789456123
+
+ITEMS PURCHASED:
+--------------------------------
+Organic Bananas        $3.99
+Whole Milk (1 gal)     $4.29
+Bread - Whole Wheat    $2.99
+Chicken Breast (2 lb)  $12.98
+Tomatoes              $5.47
+Lettuce               $2.99
+Orange Juice          $4.99
+Eggs (dozen)          $3.49
+Cheese - Cheddar      $6.99
+Coffee Beans          $11.99
+
+--------------------------------
+SUBTOTAL:             $60.17
+TAX (8.5%):           $5.11
+--------------------------------
+TOTAL:                $65.28
+
+PAYMENT METHOD: VISA ****1234
+APPROVED
+
+Thank you for shopping at ACME!
+Visit us online: www.acmegrocery.com
+
