@@ -2,6 +2,8 @@
 
 A free, open-source desktop application built with Rust and egui that extracts structured data from receipts and invoices using AI vision models. No license key required — just build and run.
 
+> 🤖 **Vibe-coded** — This app was built entirely through AI-assisted development (vibe coding). The code was generated and iterated with the help of an AI coding assistant from start to finish.
+
 ## Features
 
 - 📁 **Multi-file selection** — Select multiple documents at once (PDF, images, text files)
